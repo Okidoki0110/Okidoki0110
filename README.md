@@ -4,8 +4,8 @@ I am a computer science student, I will graduate in May 2021. I am currently DSC
 
 ### Tech I work with
 
-<img src="https://github.com/Okidoki0110/Okidoki0110/tree/master/assets/c.png"  height="25" width="30"/>
-<img src="https://github.com/Okidoki0110/Okidoki0110/tree/master/assets/java.jpg" alt="java" height="25" width="30"/> 
+<img src="https://github.com/Okidoki0110/Okidoki0110/assets/c.png"  height="25" width="30"/>
+<img src="https://github.com/Okidoki0110/Okidoki0110/java.jpg" alt="java" height="25" width="30"/> 
 
 
 
