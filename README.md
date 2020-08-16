@@ -7,4 +7,4 @@ I'm a computer science student, I will graduate in May 2021. I am currently DSC 
 - 👯 I’m looking to collaborate on all projects that have programming language C/C++, Java, JS, Python
 - 🤔 I’m looking for help with Algorithms
 - 💬 Ask me about anything, I'm up for a chat
-- 📫 How to reach me: [@daaizzzy](https://twitter.com/daaizzzy) [@deiizziii](https://www.facebook.com/deiizziii)
+- 📫 How to reach me: [@daaizzzy](https://twitter.com/daaizzzy) [@deiizziii](https://www.facebook.com/deiizziii) [@denisaf](https://www.linkedin.com/in/denisaf/)
