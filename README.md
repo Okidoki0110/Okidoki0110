@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computer science student, I will graduate in May 2021. I am currently DSC Lead at Google.
+I'm a computer engineering student, I will graduate in May 2021. I am currently DSC Lead at Google.
 
 - 🔭 I’m currently working on [my projects](https://github.com/Okidoki0110)
 - 🌱 I’m currently learning with my group from [Google Developer](https://developers.google.com/community/dsc)
